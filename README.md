@@ -1,1 +1,2 @@
-# MajesticMarketplace is an ecommerce shop including the database and procedures needed
+# MajesticMarketplace 
+An ecommerce shop including the database and procedures needed
